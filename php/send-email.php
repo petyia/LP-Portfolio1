@@ -40,7 +40,7 @@ if($_POST) {
    ini_set("sendmail_from", $to); // for windows server
    $mail = mail($to, $subject, $message, $headers);
 
-	if ($mail) { echo "OKÉ"; }
+	if ($mail) { echo "OK"; }
    else { echo "Valami probléma történt. Kérlek, próbáld újra."; }
 
 }
