@@ -501,7 +501,7 @@ var loadPortfolioSinglePage = function (id, href) {
       pSingleHolder.append(
         '<div id="portfolio-single-' +
           id +
-          '" class="portfolio-single-inner"><span class="unslate_co--close-portfolio js-close-portfolio d-flex align-items-center"><span class="close-portfolio-label">Vissza a Portfóliómhoz</span><span class="icon-close2 wrap-icon-close"></span></span>' +
+          '" class="portfolio-single-inner"><span class="unslate_co--close-portfolio js-close-portfolio d-flex align-items-center"><span class="close-portfolio-label">Bezárás</span><span class="icon-close2 wrap-icon-close"></span></span>' +
           getHTMLContent +
           "</div>"
       );
