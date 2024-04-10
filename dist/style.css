@@ -1161,12 +1161,12 @@ a:hover {
   margin-left: 0 !important;
 }
 .blog-item .overlay {
-  opacity: 1;
-  visibility: visible;
-}
-.blog-item:hover .overlay {
   opacity: 0;
   visibility: hidden;
+}
+.blog-item:hover .overlay {
+  opacity: 1;
+  visibility: visible;
 }
 .filter-wrap {
   position: relative;
@@ -1219,7 +1219,7 @@ a:hover {
   transition-property: transform, opacity;
 }
 .unslate_co--section {
-  padding: 7.5rem 0;
+  padding: 5.5rem 0;
 }
 @media (max-width: 767.98px) {
   .unslate_co--section {
