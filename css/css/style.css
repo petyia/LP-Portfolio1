@@ -1008,13 +1008,13 @@ a:hover {
   min-height: 650px;
 }
 .cover-v1 .heading {
-  font-size: 5rem;
+  font-size: 8rem;
   font-weight: 900;
   color: #fff;
 }
 @media (max-width: 991.98px) {
   .cover-v1 .heading {
-    font-size: 3rem;
+    font-size: 6rem;
   }
 }
 .cover-v1 .blog-heading {
@@ -1031,7 +1031,7 @@ a:hover {
   font-size: 18px;
 }
 .cover-v1 .subheading {
-  font-size: 33px;
+  font-size: 30px;
   color: #fff;
 }
 @media (max-width: 991.98px) {
@@ -1852,7 +1852,7 @@ figure.dotted-bg:before {
 }
 @media (max-width: 991.98px) {
   .portfolio-single-inner .heading-portfolio-single-h2 {
-    font-size: 30px;
+    font-size: 50px;
   }
 }
 
@@ -2298,7 +2298,7 @@ span.error {
   z-index: 2;
 }
 .gsap-reveal-hero .reveal-wrap .reveal-content {
-  line-height: 1.5;
+  line-height: 1;
   z-index: 1;
   display: inline-block;
   -webkit-transform: translateX(-100%);

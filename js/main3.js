@@ -8,7 +8,7 @@ AOS.init({
 jQuery(function ($) {
   "use strict";
   loader();
-  siteMenuClone();
+  // siteMenuClone();
   mobileToggleClick();
   onePageNavigation();
   siteIstotope();
